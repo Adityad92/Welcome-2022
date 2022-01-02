@@ -27,7 +27,8 @@ These directions assume you want to develop on your development environment or a
 To work on the sample code, you'll need to clone your project's repository to your
 local computer. If you haven't, do that first. You can find instructions in the AWS CodeStar user guide at https://docs.aws.amazon.com/codestar/latest/userguide/getting-started.html#clone-repo.
 
-1. Create a Python virtual environment. This virtual
+1. First codestar by aditya
+2. Create a Python virtual environment. This virtual
    environment allows you to isolate this project and install any packages you
    need without affecting the system Python installation. At the terminal, type
    the following command:
